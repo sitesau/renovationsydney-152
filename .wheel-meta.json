@@ -1,0 +1,22 @@
+{
+  "wheel_id": 765,
+  "structure": "umbrella",
+  "slug": "renovationsydney-152",
+  "project": "home-renovations-sydney-cost-guide-444641ab4c1d546dba12fb09556d",
+  "parent_t1_ref": "renovationsydney-011",
+  "node_role": "buffer",
+  "money_target": "renovationsydney.com.au",
+  "primary_kw": "home renovations sydney cost guide",
+  "intended_url": "https://aumedia.neocities.org/home-renovations-sydney-cost-guide-444641ab4c1d546dba12fb09556d/",
+  "tier": "T2",
+  "writeback_nonce": "955361e6fabeff89",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/home-renovations-sydney-011/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
